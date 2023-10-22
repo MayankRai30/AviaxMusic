@@ -124,18 +124,18 @@ shikhar@MacBook~ $ bash start
 
 Reach out to the maintainer at one of the following places:
 
-- [Updates Channel](https://telegram.me/AviaxOfficial)
-- [Support Group](https://telegram.me/AviaxSupport)
+- [Updates Channel](https://telegram.me/FLAME_NETWORK)
+- [Support Group](https://telegram.me/FLAME_MAINCHAT)
 
 ## 🎗 Project assistance
 
 If you want to say **thank you** or/and support active development of AviaxMusic:
 
-- Add a [GitHub Star](https://github.com/TeamAviax/AviaxMusic) to the project.
+- Add a [GitHub Star](https://github.com//mayankrai30) to the project.
 - Fork the Repo :)
 
 ## 👨🏻‍💻 Authors & contributors
 
-The original setup of this repository is by [Team Yukki](https://github.com/TeamYukki).
+The original setup of this repository is by [Team Yukki](https://github.com/mayankrai30).
 
 For a full list of all authors and contributors, see [the contributors page](https://github.com/TeamYukki/YukkiMusicBot/contributors).
